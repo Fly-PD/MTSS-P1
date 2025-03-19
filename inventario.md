@@ -7,4 +7,6 @@ componenti
 - Schede madri: [schede_madri.md](componenti/schede_madri.md)
 periferiche
 - Mouse: [mouse.md](periferiche/mouse.md)
+- Tastiere: [tastiere.md](periferiche/tastiere.md)
+
 Elettronica Padovana
