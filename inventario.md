@@ -3,3 +3,4 @@
 ---
 
 - Processori: [processori.md](processori.md)
+- Schede madri: [schede_madri.md](schede_madri.md)
